@@ -1,0 +1,1 @@
+This bug occurs when using the Expo ImagePicker library.  The issue manifests as an inability to access the selected image URI after successfully picking an image. The URI returned is often null or undefined, even though the image selection process completes without errors.
